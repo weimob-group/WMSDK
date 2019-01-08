@@ -1,0 +1,6 @@
+framework module WMOpenSDK {
+  umbrella header "WMOpenSDK.h"
+
+  export *
+  module * { export * }
+}
